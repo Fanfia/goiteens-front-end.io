@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ubuntu&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #7D7D7D;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 100px;
+}
+
+.list {
+    margin-left: 315px;
+    margin-top: 70px;
+    margin-bottom: 90px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+a:hover {
+    color:rgba(3, 169, 244, 1);
+}
+
+.cards {
+    margin-left: 150px;
+    margin-top: 88px;
+}
+
+.card {
+    display: inline-block;
+    width: 420px;
+    margin-bottom: 130px;
+}
+
+img {
+    width: 100%;
+}
+
+.card:nth-child(2n+1) {
+    margin-right: 65px;
+}
+
+.btn {
+    margin-left: 510px;
+    color: #626262;
+    margin-bottom: 90px;
+    border: 1px solid #626262;
+    position: absolute;
+     width: 165px;
+     height: 60px;
+     left: 0px;
+    font-family: 'Playfair Display', serif;
+    padding: 20px 48px;
+    background-color: #ffffff;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgba(3, 169, 244, 1);
+    color: #ffffff;
+}
+
+.list li {
+    margin-right: 100px;
+    display: inline-block;
+}
+
+.title {
+    margin-top: 62px;
+    margin-bottom: 32px;
+    color: #B4AD9E;
+}
+
+.title {
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.heading {
+    margin-bottom: 40px;
+    color: #626262;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.description {
+    color: #626262;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.card h2, .card p,{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
