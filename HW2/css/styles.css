@@ -45,6 +45,8 @@ a:hover {
 
 img {
     width: 100%;
+    width: 420px;
+    height: 280px;
 }
 
 .card:nth-child(2n+1) {
@@ -108,7 +110,7 @@ img {
     line-height: 19px;
 }
 
-.card h2, .card p,{
+.card h2, .card p {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
 }
