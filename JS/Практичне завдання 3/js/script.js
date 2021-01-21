@@ -45,3 +45,14 @@
 
 // 7
 
+// let whose = "My",
+//     what = "name",
+//     word = "is",
+//     fullName = `${whose} ${what} ${word} Viktor.`;
+// console.log(fullName);
+
+// 8
+
+// let userName = "Соломія",
+//     payment = "155";
+// alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`);
