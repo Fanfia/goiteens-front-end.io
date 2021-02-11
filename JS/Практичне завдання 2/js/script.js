@@ -52,7 +52,8 @@
 
 // let heightC = 10; // м
 // let dC = 4; // м
-// const V = heightC * dC;
+// const V = Math.PI * ((dC / 2) ** 2) * heightC;
+// console.log(V);
 
 // 8
 

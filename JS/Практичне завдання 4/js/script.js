@@ -18,3 +18,13 @@
 
 // 3
 
+// let number = 5;
+// if (number % 2 === 0) {
+//     number = number % 2 + " грн";
+// } else {
+//     number = number % 2 + " євро";
+// }
+// console.log(number);
+
+// 4
+
